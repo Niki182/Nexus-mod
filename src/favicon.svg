@@ -1,0 +1,15 @@
+<svg width="29" height="30" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <g id="svg_1" stroke="null">
+   <rect id="svg_9" height="23.69491" width="23.51245" y="3.37829" x="2.89719" stroke-dasharray="5,2,2,2" stroke-width="0" fill="#007fff" stroke="#000"/>
+   <rect transform="matrix(0 1.45815 -1.6077 0 46.2705 9.24852)" id="svg_11" height="14.64616" width="1.21141" y="12.36537" x="11.20268" stroke-dasharray="5,2,2,2" stroke-width="0" fill="#0059b2" stroke="#000"/>
+   <g id="svg_17" stroke="null">
+    <path id="svg_12" d="m6.32051,10.19277l0.69805,-1.95938l2.09418,-0.68351l2.96674,0.43288l0.87257,2.0733l5.93349,0.1367l0,4.0099c-2.07964,0 -4.15925,0 -6.23889,0l-6.23889,0l-0.08726,-2.00496l0,-1.00247l0,-0.50123l0,-0.50123l0,0.00001l0.00001,-0.00001z" opacity="undefined" stroke-dasharray="5,2,2,2" stroke-width="0" fill="#ffffff" stroke="#000"/>
+    <rect id="svg_15" height="3.4631" width="17.01514" y="14.38494" x="6.40777" stroke-dasharray="5,2,2,2" stroke-width="0" fill="#ffffff" stroke="#000"/>
+    <rect id="svg_16" height="3.18969" width="12.91405" y="18.12145" x="6.40777" stroke-dasharray="5,2,2,2" stroke-width="0" fill="#ffffff" stroke="#000"/>
+   </g>
+  </g>
+ </g>
+
+</svg>
