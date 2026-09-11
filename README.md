@@ -1,6 +1,6 @@
 ![Nexus! Logo](src/logo.svg)
 # Nexus<em>!</em> Build Your Own Blocks
 
-[https://snap.berkeley.edu][snap]
+[Try it out now!](https://niki182.github.io/Nexus-mod/snap.html)
 
 This is my snap mod lol
