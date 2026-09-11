@@ -1,0 +1,308 @@
+[
+  {
+    "fileName": "Cat.mp3",
+    "name": "Cat",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Chord.wav",
+    "name": "Chord",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Dog1.wav",
+    "name": "Dog 1",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Dog2.wav",
+    "name": "Dog 2",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "FingerSnap.wav",
+    "name": "Finger Snap",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Kitten.wav",
+    "name": "Kitten",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Laugh-female.wav",
+    "name": "Laugh Female",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Laugh-male1.wav",
+    "name": "Laugh Male 1",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Laugh-male2.wav",
+    "name": "Laugh Male 2",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Laugh-male3.mp3",
+    "name": "Laugh Male 3",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Meow.wav",
+    "name": "Meow",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "snap.wav",
+    "name": "Snap",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "Pop.wav",
+    "name": "Pop",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "B_piano.wav",
+    "name": "B piano",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "owl.wav",
+    "name": "Owl",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "zoop.wav",
+    "name": "Zoop",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "spiral.wav",
+    "name": "Spiral",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "screech.wav",
+    "name": "Screech",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "gong.wav",
+    "name": "Gong",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "birthday.wav",
+    "name": "Birthday",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "bubbles.wav",
+    "name": "Bubbles",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "suspense.wav",
+    "name": "Suspense",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "water_drop.wav",
+    "name": "Water drop",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "laser1.wav",
+    "name": "Laser1",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "laser2.wav",
+    "name": "Laser2",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "ripples.wav",
+    "name": "Ripples",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "party_noise.wav",
+    "name": "Party Noise",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "buzz_whir.wav",
+    "name": "Buzz Whir",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "clapping.wav",
+    "name": "Clapping",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "fairydust.wav",
+    "name": "Fairy Dust",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "horse_gallop.wav",
+    "name": "Horse Gallop",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "horse.wav",
+    "name": "Horse",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "hand_clap.wav",
+    "name": "Hand Clap",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "footsteps-1.wav",
+    "name": "Footsteps",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "flam_snare.wav",
+    "name": "Flam Snare",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "drive_around.wav",
+    "name": "Drive Around",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "bird.wav",
+    "name": "Bird",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "duck.wav",
+    "name": "Duck",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "singer1.wav",
+    "name": "Singer1",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "singer2.wav",
+    "name": "Singer2",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "plunge.wav",
+    "name": "Plunge",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "E_bass.wav",
+    "name": "E bass",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "E_elec_bass.wav",
+    "name": "E elec bass",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "afro_string.wav",
+    "name": "Afro string",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "A_trumpet.wav",
+    "name": "A trumpet",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "tambura.wav",
+    "name": "Tambura",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "wolf_howl.wav",
+    "name": "Wolf howl",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "motorcycle_passing.wav",
+    "name": "Motorcycle passing",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "scream-female.wav",
+    "name": "Scream female",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "scream-male1.wav",
+    "name": "Scream male",
+    "translations": {
+    }
+  },
+  {
+    "fileName": "shaker.wav",
+    "name": "Shaker",
+    "translations": {
+    }
+  }
+]
