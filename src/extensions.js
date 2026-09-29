@@ -1960,6 +1960,7 @@ SnapExtensions.primitives.set(
         dlg.fixLayout();
     }
 );
+// Autograding / Code-critique / structural help - mostly for tutorials (meta_)
 
 SnapExtensions.primitives.set(
     'meta_current(asset)', // sprite, sprites, stage, scripts, category, tab
