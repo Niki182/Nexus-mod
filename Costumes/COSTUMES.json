@@ -382,6 +382,13 @@
     "name": "Human_02",
     "translations": {
     },
+    "category": "Characters"
+  },
+  {
+    "fileName": "Human_02.svg",
+    "name": "Human_02",
+    "translations": {
+    },
     "category": "Body Parts"
   },
   {
@@ -537,6 +544,13 @@
     "translations": {
     },
     "category": "Characters"
+  },
+  {
+    "fileName": "Human_05.svg",
+    "name": "Human_05",
+    "translations": {
+    },
+    "category": "Body Parts"
   },
   {
     "fileName": "Human_06-arm_palmdown.svg",
