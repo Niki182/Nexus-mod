@@ -36,7 +36,7 @@ TableFrameMorph, console, Morph, MenuMorph*/
 
 /*jshint esversion: 11, bitwise: false*/
 
-modules.extensions = '2026-August-03';
+modules.extensions = '2026-September-07';
 
 // Global stuff
 
@@ -1946,8 +1946,20 @@ SnapExtensions.primitives.set(
         return new List([rect.left(), rect.top(), rect.right(), rect.bottom()]);
     }
 );
+// Primitives
+SnapExtensions.primitives.set(
+    'scn_label(txt)',
+    function (txt, proc) {
+        var stage = this.parentThatIsA(StageMorph),
+            dlg;
 
-// Autograding / Code-critique / structural help - mostly for tutorials (meta_)
+        if (!stage.tutorialMode) {return ''; }
+        dlg = stage.parentThatIsA(DialogBoxMorph);
+        dlg.labelString = txt;
+        dlg.createLabel();
+        dlg.fixLayout();
+    }
+);
 
 SnapExtensions.primitives.set(
     'meta_current(asset)', // sprite, sprites, stage, scripts, category, tab
