@@ -37,7 +37,7 @@
         <script src="src/embroider.js?version=2024-05-09"></script>
         <script src="src/sha512.js?version=2019-06-27"></script>
         <script src="src/FileSaver.min.js?version=2019-06-27"></script>
-        <!-- <script src="src/santa.js?version=2025-12-01"></script> -->
+        <script src="src/santa.js?version=2025-12-01"></script>
         <script>
             var world;
             window.onload = function () {
@@ -56,7 +56,7 @@
                     navigator.serviceWorker.register('sw.js');
                 }
                 world = new WorldMorph(document.getElementById('world'));
-                new IDE_Morph().openIn(world);
+                new IDE_Morph({"noCloud": true}).openIn(world);
                 requestAnimationFrame(loop);
             };
 
